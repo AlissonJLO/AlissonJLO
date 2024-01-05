@@ -9,11 +9,11 @@ Olá, sou Alisson joaquim, e aqui está um pouco sobre mim e meus interesses em 
 
 ## Estatísticas do GitHub
 
-![Seu Nome](https://github-readme-stats.vercel.app/api?username=AlissonJLO&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=AlissonJLO&show_icons=true&theme=radical)
 
 ## Linguagens Mais Usadas
 
-![Seu Nome](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonJLO&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonJLO&theme=radical)
 
 ## Vamos nos conectar!
 
